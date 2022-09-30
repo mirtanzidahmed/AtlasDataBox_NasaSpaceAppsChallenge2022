@@ -1,4 +1,15 @@
 # AtlasDataBox_NasaSpaceAppsChallenge2022
+## NASA Space Apps Challenge 2022
+### Team Name: TEAM ATLAS
+
+Team Members:
+
+1. Sunny Jubayer
+2. Mir Tanzid Ahmed
+3. Mir Sazid Hassan
+4. Mahtab Newaz
+5. Khandoker Maruf Bin Islam
+6. Nusrat Jahan Sinha
 
 ## Detailed Project Description
 
